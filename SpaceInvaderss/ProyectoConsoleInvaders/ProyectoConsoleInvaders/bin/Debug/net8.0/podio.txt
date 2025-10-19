@@ -1,0 +1,5 @@
+vlad,30
+vlad,30
+vlad,0
+vlad,0
+f,0

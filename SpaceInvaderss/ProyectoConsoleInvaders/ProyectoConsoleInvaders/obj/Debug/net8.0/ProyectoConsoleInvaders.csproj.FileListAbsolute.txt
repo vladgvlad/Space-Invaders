@@ -1,0 +1,42 @@
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.exe
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.deps.json
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.runtimeconfig.json
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.pdb
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\refint\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.pdb
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ref\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.exe
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.deps.json
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.runtimeconfig.json
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.pdb
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.AssemblyInfoInputs.cache
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.AssemblyInfo.cs
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\refint\ProyectoConsoleInvaders.dll
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.pdb
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.genruntimeconfig.cache
+C:\Users\Vlad\Desktop\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ref\ProyectoConsoleInvaders.dll
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.exe
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.deps.json
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.runtimeconfig.json
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.dll
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\bin\Debug\net8.0\ProyectoConsoleInvaders.pdb
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.AssemblyInfoInputs.cache
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.AssemblyInfo.cs
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.csproj.CoreCompileInputs.cache
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.dll
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\refint\ProyectoConsoleInvaders.dll
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.pdb
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ProyectoConsoleInvaders.genruntimeconfig.cache
+F:\Programación\2da evaluación\SpaceInvaders\ProyectoConsoleInvaders\ProyectoConsoleInvaders\obj\Debug\net8.0\ref\ProyectoConsoleInvaders.dll
